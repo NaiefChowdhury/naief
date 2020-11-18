@@ -1,0 +1,40 @@
+body {
+background: #333;
+color: #fff;
+margin: 0;
+padding: 0;
+}
+b {
+font-size: 16px;
+padding: 5px;
+}
+.p {
+font-size: 23px;
+text-align: center;
+color: #333;
+font-weight: 700;
+background: #ffffff;
+margin: 0;
+padding: 15px 10px;
+}
+.a {
+font-weight: 600;
+font-size: 18px;
+}
+
+p {
+font-size: 23px;
+text-align: center;
+color: #333;
+font-weight: 700;
+background: #ffffff;
+margin: 0;
+padding: 15px 10px;
+font-family: 'Big Shoulders Inline Text', cursive;
+}
+
+.aa {
+
+
+}
+
